@@ -1,0 +1,60 @@
+<html>
+<head> <title> I love you meri jaan </title> </head>
+<body style=background-color:red> 
+<h1 align="center"> Love is every thing </h1>
+
+<script> alert("I am an alert box!"); </script>
+
+<h3> 19P-0104 <br>
+p190104@nu.edu.pk <br>
+National University of Compters and Emerging Sciences <br>
+Program CS 19-B </h3>
+<h2 align="center"> Facebook signup form </h2>
+<h4>First Name </h4> <input type="text" name="fname" placeholder="First Name">
+<h4>Second Name </h4> <input type="text" name="lname" placeholder="Last Name">
+<h4>Password </h4> <input type="password" name="password" placeholder="password">
+<h4>Email address </h4> <input type="text" name="email" placeholder="Email address">
+<h4> Save </h4> <input type="button" name="save" value="SAVE">
+<h4> Gender </h4>
+<h4> <input type="radio" name="male" value="Male"> </h4>
+<h4> <input type="radio" name="male" value="Male"> </h4>
+
+
+<h4> Login </h4> <input type="button" name="login" value="LOGINE">
+
+
+
+<table border="1">
+<tr>
+<th> english </th>
+<th> Pak study </th>
+<th> Physics </th>
+</tr>
+
+<tr>
+<td> 80 </td>
+<td> 90 </td>
+<td> 70 </td>
+</tr>
+
+<tr>
+<td> 30 </td>
+<td> 60 </td>
+<td> 40 </td>
+</tr>
+
+<tr>
+<td> 180 </td>
+<td> 110 </td>
+<td> 10 </td>
+</tr>
+</table>
+
+<a href="https://www.w3schools.com">This is a link</a>
+
+
+<img src="jaaan.jpg" length="200" width="200">
+
+
+</body>
+</html>
